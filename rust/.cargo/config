@@ -1,0 +1,11 @@
+[target.aarch64-linux-android]
+linker = "C:\\Users\\com\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\aarch64-linux-android27-clang.cmd"
+
+[target.armv7-linux-androideabi]
+linker = "C:\\Users\\com\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\armv7a-linux-androideabi26-clang.cmd"
+
+[target.i686-linux-android]
+linker = "C:\\Users\\com\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\i686-linux-android26-clang.cmd"
+
+[target.x86_64-linux-android]
+linker = "C:\\Users\\com\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.13113456\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\x86_64-linux-android26-clang.cmd"
